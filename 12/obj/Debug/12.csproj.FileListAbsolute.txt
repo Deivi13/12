@@ -1,0 +1,7 @@
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\EXAMENES\12\bin\Debug\12.exe.config
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\EXAMENES\12\bin\Debug\12.exe
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\EXAMENES\12\bin\Debug\12.pdb
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\EXAMENES\12\obj\Debug\12.csprojAssemblyReference.cache
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\EXAMENES\12\obj\Debug\12.csproj.CoreCompileInputs.cache
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\EXAMENES\12\obj\Debug\12.exe
+D:\ITLA\Semestre 2021 1\Fundamentos de programacion(7) - Miguel Liceares Moreta Rodriguez\EXAMENES\12\obj\Debug\12.pdb
